@@ -1,0 +1,29 @@
+{
+  "name": "Tonnard & Verpaele — Agenda (spike)",
+  "short_name": "T&V Agenda",
+  "description": "Statische PWA-spike van de agenda, op vaste testdata.",
+  "start_url": "./app/iframe.html?id=features-scheduling-agenda-page--default&viewMode=story",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#3B6C66",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icons/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
